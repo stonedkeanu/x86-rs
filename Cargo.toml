@@ -1,0 +1,9 @@
+[package]
+name = "x86-rs"
+version = "0.1.0"
+authors = ["Stoned Keanu <stonedkeanu@gmail.com>"]
+license = "GPL-3.0+"
+edition = "2018"
+
+[dependencies]
+bitflags = "1.0.4"
